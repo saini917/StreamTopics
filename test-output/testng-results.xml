@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="98" started-at="2020-06-05T15:06:46Z" finished-at="2020-06-05T15:06:47Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="98" started-at="2020-06-05T15:06:46Z" finished-at="2020-06-05T15:06:47Z">
+      <class name="StreamConcept.Test">
+        <test-method status="PASS" signature="streamCollect()[pri:0, instance:StreamConcept.Test@56f4468b]" name="streamCollect" duration-ms="72" started-at="2020-06-05T15:06:47Z" finished-at="2020-06-05T15:06:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- streamCollect -->
+      </class> <!-- StreamConcept.Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
